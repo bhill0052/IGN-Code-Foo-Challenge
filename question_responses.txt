@@ -36,25 +36,29 @@ the bridge it would have been 1,868,100 pennies).
      192 x 108, 960 x 540, 1920 x 1080
 
       Notes: 
-      I just chose to go simply with a small size that fit the limitations then scale that by 5 times and 10 times(respectively).
+      I just chose to go simply with a small size that fit the limitations then scale that by 5 times and 10 
+times(respectively).
 
 
 
-3)  Since there are 64 spaces on a chess board it would take a MINIMUM of 64 moves (63 if you count the starting position).  
-My program however was only able to do it in 74 moves (84 in the example used for my graph, knightgraph.jpg).
+3)  Since there are 64 spaces on a chess board it would take a MINIMUM of 64 moves (63 if you count the 
+starting position).  My program however was only able to do it in 74 moves (84 in the example used for 
+my graph, knightgraph.jpg).
 
       Notes:
-      When I started working on this problem I thought it would be best to try to solve it on paper first, then make my algorithm 
-from that solution.  While I was able to come close to solving it, my algorithm was more intuitive than systematic.  So I 
-decided to try to solve it instead by making that "intuition" into a program and let it solve the problem.  The program I ended 
-up with basically tries to move to an unvisited space when possible, and towards one when there isn't one within the current 
-movement range.  After later discussing the problem with a friend, I realized that a recursive algorithm would have worked 
-better, though I have to admit my skills at developing recursive algorithms are a bit rusty. (knight.cpp and knight.exe)
+      When I started working on this problem I thought it would be best to try to solve it on paper first, then make 
+my algorithm from that solution.  While I was able to come close to solving it, my algorithm was more intuitive 
+than systematic.  So I decided to try to solve it instead by making that "intuition" into a program and let it solve
+the problem.  The program I ended up with basically tries to move to an unvisited space when possible, and 
+towards one when there isn't one within the current movement range.  After later discussing the problem with 
+a friend, I realized that a recursive algorithm would have worked better, though I have to admit my skills at 
+developing recursive algorithms are a bit rusty. (knight.cpp and knight.exe)
 
 
 
-4)  For this one I decided to make a "Fire" themed collage out of the things that I'm most passionate about in my own life: 
-games, Japanese language and culture, and, of course, IGN.  I used game screen shots containing fiery images from that 
-I found on IGN, and arranged them in the pattern of the Japanese kanji for "hi" (meaning "fire").
+4)  For this one I decided to make a "Fire" themed collage out of the things that I'm most passionate about 
+in my own life: games, Japanese language and culture, and, of course, IGN.  I used game screen shots 
+containing fiery images from that I found on IGN's network, and arranged them in the pattern of the Japanese 
+kanji for "hi" (meaning "fire").
 
 While I can come up with some pretty creative ideas, I'm no artist so I stuck with MS Paint. (fire.jpg)

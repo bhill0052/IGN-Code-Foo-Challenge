@@ -1,1 +1,3 @@
 Repo for the IGN Code Foo Challenge
+(codefoo.txt and question_responses.txt are essentially the same file, except that 
+codefoo.txt is a unicode text file that doesn't properly display on github)
