@@ -56,4 +56,5 @@ Trained employees
 Counted inventory when closing the store
 Suggested cost savings ideas
 
-Interests: programming, gaming, building and maintaining computer systems, spending time with family and friends, and studying Japanese
+Interests: programming, gaming, building and maintaining computer systems, spending time with family 
+and friends, and studying Japanese
